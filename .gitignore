@@ -1,3 +1,7 @@
+# User-input material (not boilerplate)
+data
+*.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
