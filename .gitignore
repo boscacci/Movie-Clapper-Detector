@@ -1,6 +1,7 @@
 # User-input material (not boilerplate)
 data
 *.DS_Store
+models
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -131,3 +132,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/models
