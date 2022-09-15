@@ -2,4 +2,4 @@
     remote = remote
 ['remote "remote"']
     url = s3://film-slate-detector
-    credentialpath = /Users/rob/.aws/credentials
+    credentialpath = /home/ubuntu/.aws/credentials
