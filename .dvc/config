@@ -1,6 +1,0 @@
-[core]
-    remote = remote
-    autostage = true
-['remote "remote"']
-    url = s3://film-slate-detector
-    credentialpath = /home/ubuntu/.aws/credentials
