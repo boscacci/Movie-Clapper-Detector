@@ -4,11 +4,13 @@
 
 Click the preview image below to read the explainer tweet thread:
 ***
-<a href="https://twitter.com/cinemarob1/status/1587476860551692289">
+<a 
+href="https://twitter.com/cinemarob1/status/1587476860551692289"
+target="_blank"
+>
     <img src="media/tweet_thread.png" 
      alt="Tweet Thread" 
      height="500"
-     target="_blank"
     />
 </a>
 
