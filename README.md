@@ -2,11 +2,6 @@
     
     My first computer vision object detection project
 
-<img src="media/detector_demo.gif" 
-     alt="Detector in action" 
-     height="500"
-/>
-
 Click the preview image below to read the explainer tweet thread:
 ***
 <a href="https://twitter.com/cinemarob1/status/1587476860551692289">
