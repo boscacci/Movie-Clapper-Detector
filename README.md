@@ -8,6 +8,7 @@ Click the preview image below to read the explainer tweet thread:
     <img src="media/tweet_thread.png" 
      alt="Tweet Thread" 
      height="500"
+     target="_blank"
     />
 </a>
 
